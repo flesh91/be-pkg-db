@@ -30,7 +30,7 @@
     },
     "dependencies": {
         "@diia-inhouse/crypto": "1.11.0",
-        "@diia-inhouse/diia-logger": "3.0.0",
+        "@diia-inhouse/diia-logger": "3.3.0",
         "@diia-inhouse/utils": "3.5.0",
         "@diia-inhouse/validators": "1.17.0",
         "@types/migrate-mongo": "10.0.4",
