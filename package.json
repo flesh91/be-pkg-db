@@ -38,7 +38,7 @@
         "lodash": "4.17.21",
         "luxon": "3.4.4",
         "migrate-mongo": "11.0.0",
-        "mongoose": "8.3.5",
+        "mongoose": "8.20.1",
         "recursive-readdir": "2.2.3"
     },
     "peerDependencies": {
