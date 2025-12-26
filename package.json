@@ -36,7 +36,7 @@
         "@types/migrate-mongo": "10.0.4",
         "bson": "6.4.0",
         "lodash": "4.17.21",
-        "luxon": "3.4.4",
+        "luxon": "3.7.2",
         "migrate-mongo": "11.0.0",
         "mongoose": "8.3.5",
         "recursive-readdir": "2.2.3"
