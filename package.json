@@ -33,7 +33,7 @@
         "@diia-inhouse/diia-logger": "3.0.0",
         "@diia-inhouse/utils": "3.5.0",
         "@diia-inhouse/validators": "1.17.0",
-        "@types/migrate-mongo": "10.0.4",
+        "@types/migrate-mongo": "10.0.6",
         "bson": "6.4.0",
         "lodash": "4.17.21",
         "luxon": "3.4.4",
