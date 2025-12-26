@@ -34,7 +34,7 @@
         "@diia-inhouse/utils": "3.5.0",
         "@diia-inhouse/validators": "1.17.0",
         "@types/migrate-mongo": "10.0.4",
-        "bson": "6.4.0",
+        "bson": "6.10.4",
         "lodash": "4.17.21",
         "luxon": "3.4.4",
         "migrate-mongo": "11.0.0",
